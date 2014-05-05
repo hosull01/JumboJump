@@ -12,7 +12,7 @@ The controls are simple. Simply tilt your IOS device in the direction that you
 want to proceed. There are no other controls. 
 
 To retrieve the files, simply download the zip (or tar) file that is provided
-in this repository. Upon unzipping, build and run the program through Xcode 5. 
+in this repository (the final zip file). Upon unzipping, build and run the program through Xcode 5. 
 To run it on your actual IOS device, you will need a developers application. 
 
 Learning how to program in Objective-C was a challege, and we owe our work to 
